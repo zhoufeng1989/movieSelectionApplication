@@ -1,0 +1,22 @@
+.movies {
+    display: flex;
+    flex-basis: 80%;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 20px;
+}
+
+.pagination button {
+    padding: 10px 10px;
+}
+
+
+.pagination span {
+    padding: 10px 10px;
+    background-color: aqua;
+}

@@ -1,0 +1,9 @@
+.slider {
+    margin-bottom: 40px;
+
+}
+
+.slider label {
+    margin-bottom: 30px;
+    text-transform: capitalize;
+}

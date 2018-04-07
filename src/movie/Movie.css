@@ -1,0 +1,20 @@
+.movie-page {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.movie-details {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    max-width: 800px;
+    margin: 20px auto 60px auto;
+}
+
+.movie-page img {
+    display: block;
+    width: 800px;
+    margin: 0 auto;
+
+}
